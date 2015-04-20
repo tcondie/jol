@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/!svn/ver/4751/lincoln/java/trunk/lib
+END
+junit.jar
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/2615/lincoln/java/trunk/lib/junit.jar
+END
+grappa.jar
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/!svn/ver/3651/lincoln/java/trunk/lib/grappa.jar
+END
+servlet-api.jar
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/2615/lincoln/java/trunk/lib/servlet-api.jar
+END
+xtc.jar
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/!svn/ver/4751/lincoln/java/trunk/lib/xtc.jar
+END

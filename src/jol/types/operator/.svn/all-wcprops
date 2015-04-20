@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/3727/lincoln/java/trunk/src/jol/types/operator
+END
+Join.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/Join.java
+END
+AntiScanJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/AntiScanJoin.java
+END
+AntiIndexJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/AntiIndexJoin.java
+END
+Assign.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/Assign.java
+END
+ScanJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/ScanJoin.java
+END
+Function.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3684/lincoln/java/trunk/src/jol/types/operator/Function.java
+END
+RemoteBuffer.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/RemoteBuffer.java
+END
+Selection.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/Selection.java
+END
+Watch.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/Watch.java
+END
+EventFilter.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/EventFilter.java
+END
+IndexJoin.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/IndexJoin.java
+END
+Operator.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/3727/lincoln/java/trunk/src/jol/types/operator/Operator.java
+END
+Projection.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3684/lincoln/java/trunk/src/jol/types/operator/Projection.java
+END
+Invoker.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/operator/Invoker.java
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/6432/lincoln/java/trunk/src/jol/lang/parse
+END
+Core.rats
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Core.rats
+END
+Constant.rats
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Constant.rats
+END
+Parser.rats
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Parser.rats
+END
+TypeChecker.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/!svn/ver/6432/lincoln/java/trunk/src/jol/lang/parse/TypeChecker.java
+END
+Reserved.rats
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Reserved.rats
+END
+Identifier.rats
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Identifier.rats
+END
+Spacing.rats
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Spacing.rats
+END
+Symbol.rats
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3647/lincoln/java/trunk/src/jol/lang/parse/Symbol.rats
+END

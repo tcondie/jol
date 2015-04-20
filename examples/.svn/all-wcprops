@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/!svn/ver/3789/lincoln/java/trunk/examples
+END
+ap.olg
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/!svn/ver/2615/lincoln/java/trunk/examples/ap.olg
+END
+election_LCR.olg
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/2615/lincoln/java/trunk/examples/election_LCR.olg
+END
+stasispath.olg
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/!svn/ver/2615/lincoln/java/trunk/examples/stasispath.olg
+END
+pinger.olg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3789/lincoln/java/trunk/examples/pinger.olg
+END
+ponger.olg
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3789/lincoln/java/trunk/examples/ponger.olg
+END
+path.olg
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/!svn/ver/2615/lincoln/java/trunk/examples/path.olg
+END
+election_LCR_noagg.olg
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/2615/lincoln/java/trunk/examples/election_LCR_noagg.olg
+END

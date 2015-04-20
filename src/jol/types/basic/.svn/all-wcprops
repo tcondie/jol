@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/!svn/ver/3740/lincoln/java/trunk/src/jol/types/basic
+END
+Schema.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/basic/Schema.java
+END
+TupleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/!svn/ver/3734/lincoln/java/trunk/src/jol/types/basic/TupleSet.java
+END
+BasicTupleSet.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/3734/lincoln/java/trunk/src/jol/types/basic/BasicTupleSet.java
+END
+ValueList.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3647/lincoln/java/trunk/src/jol/types/basic/ValueList.java
+END
+Tuple.java
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/!svn/ver/3740/lincoln/java/trunk/src/jol/types/basic/Tuple.java
+END

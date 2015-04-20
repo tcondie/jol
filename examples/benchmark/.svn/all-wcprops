@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark
+END
+load0.olg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/load0.olg
+END
+load1.olg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/load1.olg
+END
+load2.olg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/load2.olg
+END
+reference-times.csv
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/reference-times.csv
+END
+count.olg
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/count.olg
+END
+README.benchmarks
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/!svn/ver/2615/lincoln/java/trunk/examples/benchmark/README.benchmarks
+END

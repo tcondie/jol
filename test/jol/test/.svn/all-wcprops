@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/!svn/ver/3495/lincoln/java/trunk/test/jol/test
+END
+PingPongTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/!svn/ver/3495/lincoln/java/trunk/test/jol/test/PingPongTest.java
+END
+pingpong.olg
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/!svn/ver/2615/lincoln/java/trunk/test/jol/test/pingpong.olg
+END
+largedata.olg
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/2742/lincoln/java/trunk/test/jol/test/largedata.olg
+END
+LocalTestBase.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/!svn/ver/3495/lincoln/java/trunk/test/jol/test/LocalTestBase.java
+END
+Tester.java
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/!svn/ver/3495/lincoln/java/trunk/test/jol/test/Tester.java
+END
+AggregationTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/3429/lincoln/java/trunk/test/jol/test/AggregationTest.java
+END
+aggregation.olg
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/!svn/ver/2844/lincoln/java/trunk/test/jol/test/aggregation.olg
+END
+aggregationTest1.olg
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/!svn/ver/2615/lincoln/java/trunk/test/jol/test/aggregationTest1.olg
+END
+PathTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/!svn/ver/3495/lincoln/java/trunk/test/jol/test/PathTest.java
+END
+path.olg
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/!svn/ver/2615/lincoln/java/trunk/test/jol/test/path.olg
+END
